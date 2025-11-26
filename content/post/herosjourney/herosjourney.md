@@ -2,7 +2,7 @@
 title: Hero's Journey
 description: Android Native App
 date: 2020-09-09
-image: 
+image: portada_herosjourney.png
 categories:
     - Android Projects
 tags: [Project, Android, Kotlin]
