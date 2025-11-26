@@ -37,4 +37,4 @@ Para lograr esto, Hero's Journey es una app que se inspira en las mecánicas y e
 
 ## Capturas de pantalla
 
-![Photo by Florian Klauer on Unsplash](habits.png)  ![Photo by Luca Bravo on Unsplash](new_habit.png) ![Photo by Luca Bravo on Unsplash](update_habit.png)
+![Habits Screen](habits.png)  ![New Habit Screen](new_habit.png) ![Update Habit Screen](update_habit.png)
