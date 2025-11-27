@@ -47,7 +47,10 @@ Contenido del curso:
 ## PDF
 
 [Udemy - Jetpack Compose](/post/certificaciones/certificado_kotlin_jetpack_compose_cza.pdf)
+
 ![Udemy - Jetpack Compose](/post/certificaciones/certificado_kotlin_jetpack_compose_cza.jpg)
+
+<img src="/post/certificaciones/certificado_kotlin_jetpack_compose_cza.jpg" height="800" />
 
 [OpenWebinars - Curso de Android Jetpack architecture](/post/certificaciones/certificado_curso_de_android_jetpack_architecture_cza.pdf)
 
