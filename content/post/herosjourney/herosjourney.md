@@ -41,9 +41,9 @@ Para lograr esto, Hero's Journey es una app que se inspira en las mecánicas y e
 <img src="/post/herosjourney/new_habit.png" height="100" width="100" />
 <img src="/post/herosjourney/update_habit.png" height="100" width="100" />
 
-<img src="/post/herosjourney/portada_herosjourney"/>
-<img src="/post/herosjourney/habits_heros_journey"/>
-<img src="/post/herosjourney/screens_heros_journey"/>
+<img src="/post/herosjourney/portada_herosjourney" height="1600" width="800" />
+<img src="/post/herosjourney/habits_heros_journey" height="1600" width="800" />
+<img src="/post/herosjourney/screens_heros_journey" height="1600" width="800" />
 
 ![Screens](/post/herosjourney/portada_herosjourney) 
 ![Habits Screen](/post/herosjourney/habits_heros_journey)  
