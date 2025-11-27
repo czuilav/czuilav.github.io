@@ -14,7 +14,7 @@ Proyecto personal que consiste en un desarrollo android nativo en Android Studio
 
 ## Tecnologías
 
-> Kotlin
+> Kotlin <br>
 > Jetpack Compose
 > Android Studio
 Android Jetpack
