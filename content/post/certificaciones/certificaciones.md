@@ -8,13 +8,13 @@ categories:
 tags: [Certificaciones]
 ---
 
-## Introducción
-
 A continuación se presenta la lista de certificaciones y cursos realizados. En todos los casos se puede aportar el certificado como prueba de su cumplimiento.
 
 ## Certificaciones Udemy
 
-> Jetpack Compose: Curso definitivo desde 0 (2025) [27,5 horas]. Contenido del curso: <br>
+> Jetpack Compose: Curso definitivo desde 0 (2025) [27,5 horas]. <br> 
+
+Contenido del curso: 
 - Layouts y formas de organizar las vistas
 - Componentes
 - Buenas prácticas
@@ -44,7 +44,7 @@ A continuación se presenta la lista de certificaciones y cursos realizados. En 
 > Certificado *Publica tu aplicación en Play Store* [1 hora] <br>
 > Certificado *Crea tu primera aplicacion en android* [5 horas] <br>
 
-## Capturas de pantalla
+## PDF
 
-![Habits Screen](/post/certificaciones/certificado_curso_crea_tu_primera_aplicacion_en_android_cza.pdf)  
+[Habits Screen](/post/certificaciones/certificado_curso_crea_tu_primera_aplicacion_en_android_cza.pdf)  
 ![Screens](/post/herosjourney/screens_heros_journey.png)
