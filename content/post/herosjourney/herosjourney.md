@@ -17,8 +17,11 @@ Proyecto personal que consiste en un desarrollo android nativo en Android Studio
 > Kotlin
 
 > Jetpack Compose
+
 Android Studio
-> Android Jetpack
+
+Android Jetpack
+
 > Room (SQLite)
 > DataStore
 > MVVM
