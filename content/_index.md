@@ -35,18 +35,11 @@ Otras habilidades que siento que me definen bastante son: Resolutivo, Proactivo,
 
 ## 📱 Conocimientos Android
 
-Kotlin | Android Jetpack Architecture | Jetpack Compose | XML | MVVM | Android Studio | ROOM | SQLITE | RETROFIT | Dagger Hilt
+> Kotlin | Android Jetpack Architecture | Jetpack Compose | XML | MVVM | Android Studio | ROOM | SQLITE | RETROFIT | Dagger Hilt
 
 ## 🗃️ Conocimientos Backend
 
-Lenguaje de programación:
-
-Java
-
-Bases de datos:
-
-PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | 
-BBDD relacionales y no relacionales | MySQL | SQL | Docker | Postman | Sockets | APIs RESTful
+> Java | PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | BBDD relacionales y no relacionales | MySQL | SQL | Docker | Postman | Sockets | APIs RESTful
 
 ## 💻 Otros conocimientos
 
@@ -69,9 +62,12 @@ MVC | Clean Architecture | DAO
 
 ## 🎓 Mis estudios
 
-Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) - IES El Cañaveral | 2023 - 2025
-
+> Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) - IES El Cañaveral | 2023 - 2025 <br><br>
 Bachillerato - IES África | 2016 - 2019
+
+## 📃 Certificaciones
+
+[Mis certificaciones y cursos](/p/certificaciones/)
 
 ## 💼 Mi experiencia laboral 
 
