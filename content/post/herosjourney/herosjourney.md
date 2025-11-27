@@ -10,7 +10,7 @@ tags: [Project, Android, Kotlin]
 
 ## Introducción
 
-Proyecto personal que consiste en un **desarrollo android nativo** en **Android Studio** utilizando **Kotlin** y **Jetpack Compose**.
+**Hero's Journey** es un proyecto personal que consiste en un **desarrollo Android nativo** en **Android Studio** utilizando **Kotlin** y **Jetpack Compose**.
 
 ## Tecnologías
 
