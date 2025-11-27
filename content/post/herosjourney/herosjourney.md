@@ -2,7 +2,7 @@
 title: Hero's Journey
 description: Android Native App
 date: 2020-09-09
-image: portada_herosjourney.png
+image: /post/herosjourney/portada_herosjourney.png
 categories:
     - Android Projects
 tags: [Project, Android, Kotlin]
@@ -37,6 +37,5 @@ Para lograr esto, Hero's Journey es una app que se inspira en las mecánicas y e
 
 ## Capturas de pantalla
 
-![Screens](/post/herosjourney/portada_herosjourney.png) 
 ![Habits Screen](/post/herosjourney/habits_heros_journey.png)  
 ![Screens](/post/herosjourney/screens_heros_journey.png)
