@@ -15,23 +15,19 @@ Proyecto personal que consiste en un desarrollo android nativo en Android Studio
 ## Tecnologías
 
 > Kotlin
-
 > Jetpack Compose
-
-Android Studio
-
+> Android Studio
 Android Jetpack
-
-> Room (SQLite)
-> DataStore
-> MVVM
-> Coroutines
-> Hilt/Dagger
-> Material 3
-> JUnit, Espresso
-> WorkManager
-> Navigation Component
-> GitHub
+Room (SQLite)
+DataStore
+MVVM
+Coroutines
+Hilt/Dagger
+Material 3
+JUnit, Espresso
+WorkManager
+Navigation Component
+GitHub
 
 ## Descripción
 
