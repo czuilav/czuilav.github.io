@@ -10,7 +10,7 @@ tags: [Project, Android, Kotlin]
 
 ## Introducción
 
-Proyecto personal que consiste en un desarrollo android nativo en Android Studio utilizando Kotlin y Jetpack Compose.
+Proyecto personal que consiste en un <mark>desarrollo android nativo<mark> en <mark>Android Studio<mark> utilizando <mark>Kotlin<mark> y <mark>Jetpack Compose<mark>.
 
 ## Tecnologías
 
@@ -31,9 +31,9 @@ Proyecto personal que consiste en un desarrollo android nativo en Android Studio
 
 ## Descripción
 
-El presente proyecto se centra en el diseño y desarrollo de una aplicación móvil orientada a la productividad, pues se pretende que a través de sus funciones los usuarios puedan adoptar unas conductas sanas y positivas, prestándose como herramienta de organización personal, promoviendo hábitos saludables y fomentando el bienestar emocional de sus usuarios. Para esto, dicha aplicación combinará, en cierto grado, elementos procedentes del ámbito de la psicología con funcionalidades propias de la gestión de rutinas y tareas diarias, empleando mecánicas de gamificación.
+El presente proyecto se centra en el <mark>diseño y desarrollo de una aplicación móvil<mark> orientada a la productividad, pues se pretende que a través de sus funciones los usuarios puedan adoptar unas <mark>conductas sanas y positivas<mark>, prestándose como herramienta de organización personal, promoviendo hábitos saludables y fomentando el <mark>bienestar emocional<mark> de sus usuarios. Para esto, dicha aplicación combinará, en cierto grado, elementos procedentes del ámbito de la psicología con funcionalidades propias de la gestión de rutinas y tareas diarias, empleando mecánicas de <mark>gamificación<mark>.
 
-Para lograr esto, Hero's Journey es una app que se inspira en las mecánicas y estética de los videojuegos de rol (RPG) de fantasía medieval, implementa un estilo gráfico pixel art en alguna de sus secciones y adopta un enfoque naíf, que lejos de coaccionar al usuario con mensajes excesivamente rígidos, lo que hace es ofrecerle un entorno lúdico, agradable y motivador para desarrollar su productividad.
+Para lograr esto, <mark>Hero's Journey<mark> es una app que se inspira en las <mark>mecánicas y estética de los videojuegos de rol<mark> (RPG) de fantasía medieval, implementa un estilo gráfico pixel art en alguna de sus secciones y adopta un enfoque naíf, que lejos de coaccionar al usuario con mensajes excesivamente rígidos, lo que hace es ofrecerle un <mark>entorno lúdico, agradable y motivador<mark> para desarrollar su productividad.
 
 ## Capturas de pantalla
 
