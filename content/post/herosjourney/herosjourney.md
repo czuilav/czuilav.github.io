@@ -15,8 +15,9 @@ Proyecto personal que consiste en un desarrollo android nativo en Android Studio
 ## Tecnologías
 
 > Kotlin
+
 > Jetpack Compose
-> Android Studio
+Android Studio
 > Android Jetpack
 > Room (SQLite)
 > DataStore
