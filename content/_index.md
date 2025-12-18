@@ -39,7 +39,7 @@ Otras habilidades que siento que me definen bastante son: Resolutivo, Proactivo,
 
 ## 🗃️ Conocimientos Backend
 
-> Java | PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | BBDD relacionales y no relacionales | MySQL | SQL | Docker | Postman | Sockets | APIs RESTful
+> Spring Boot | Java | PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | BBDD relacionales y no relacionales | MySQL | SQL | Docker | Postman | Sockets | APIs RESTful
 
 ## 💻 Otros conocimientos
 
@@ -58,7 +58,7 @@ Git/GitHub | Scrum | Metodologías Ágiles
 
 Arquitectura:
 
-MVC | Clean Architecture | DAO
+MVC | Clean Architecture | DAO | Patrón en capas
 
 ## 🎓 Mis estudios
 
