@@ -58,7 +58,7 @@ Git/GitHub | Scrum | Metodologías Ágiles
 
 Arquitectura:
 
-MVC | Clean Architecture | DAO
+MVC | Clean Architecture | DAO | Patrón en capas
 
 ## 🎓 Mis estudios
 
