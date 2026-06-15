@@ -17,7 +17,7 @@ menu:
 
 ## 👋🏻 Presentación
 
-Soy desarrollador de software, actividad por la que siento una gran pasión, con especial interés en el desarrollo Backend y el desarrollo Android nativo. Mi enfoque en este área es el de tratar que las soluciones en las que trabajo sean robustas, eficientes, escalables y de alto rendimiento.
+Soy desarrollador de software, actividad por la que siento una gran pasión, con especial interés en el desarrollo Backend y el desarrollo Android nativo. Mi enfoque en estas áreas es el de tratar que las soluciones en las que trabajo sean robustas, eficientes, escalables y de alto rendimiento.
 
 ## 🙋🏻‍♂️ Sobre mí
 
@@ -33,13 +33,13 @@ Otras habilidades que siento que me definen bastante son: Resolutivo, Proactivo,
 
 [Mis proyectos personales](/tags/project/)
 
+## 🗃️ Conocimientos Backend
+
+> Java | Spring Boot | Microservices | Spring Framework | Spring MVC | Spring Web API RESTful | Spring Security (JWT) | JSON | Visual Studio Code | PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | BBDD relacionales y no relacionales | MySQL | SQL | Inyección de dependencias (IoC) | Programación Orientada a Aspectos (AOP) | Docker | Postman | Sockets | APIs RESTful
+
 ## 📱 Conocimientos Android
 
 > Kotlin | Android Jetpack Architecture | Jetpack Compose | XML | MVVM | Android Studio | ROOM | SQLITE | RETROFIT | Dagger Hilt
-
-## 🗃️ Conocimientos Backend
-
-> Java | PostgreSQL | JDBC | MongoDB | Hibernate (JPA) | BBDD relacionales y no relacionales | MySQL | SQL | Docker | Postman | Sockets | APIs RESTful
 
 ## 💻 Otros conocimientos
 
