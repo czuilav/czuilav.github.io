@@ -12,6 +12,28 @@ A continuación se presenta la lista de certificaciones y cursos realizados. En 
 
 ## Certificaciones Udemy
 
+> Spring Framework & Spring Boot: De cero a experto - [65,5 horas]. <br> 
+
+Contenido del curso:
+- Desarrollar aplicaciones con Spring Framework, Spring Boot y Data JPA
+- Arquitectura del modelo MVC (Modelo–vista–controlador) y Spring MVC
+- Inyección de dependencias 
+- Contenedor y contextos IoC
+- Anotaciones
+- Thymeleaf
+- RESTful
+- Formularios
+- Validaciones
+- Sesiones HTTP
+- Hibernate
+- Bootstrap CSS
+- JavaScript
+- Despliegue en la nube AWS
+- Spring Security y JWT (autenticación y autorización basada en token)
+- Aplicaciones reactivas con Spring WebFlux
+- Integración Frontend Angular y React con Backend Spring Boot
+- Spring Boot + JPA + Restful
+
 > Jetpack Compose: Curso definitivo desde 0 (2025) - [27,5 horas]. <br> 
 
 Contenido del curso:
@@ -46,7 +68,7 @@ Contenido del curso:
 
 ## PDF
 
-![Udemy - Jetpack Compose](/post/certificaciones/certificado_kotlin_jetpack_compose_cza.jpg)
+[Udeymy - Curso de Spring Framework & Spring Boot: De cero a experto](/post/certificaciones/certificado_springframework_springboot_cza.pdf)
 
 [Udemy - Jetpack Compose](/post/certificaciones/certificado_kotlin_jetpack_compose_cza.pdf)
 
