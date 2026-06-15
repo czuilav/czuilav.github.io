@@ -68,7 +68,7 @@ Contenido del curso:
 
 ## PDF
 
-[Udemy - Curso de Spring Framework & Spring Boot: De cero a experto](/post/certificaciones/certificado_springframework_springboot_cza.pdf)
+[Udemy - Spring Framework & Spring Boot: De cero a experto](/post/certificaciones/certificado_springframework_springboot_cza.pdf)
 
 [Udemy - Jetpack Compose](/post/certificaciones/certificado_kotlin_jetpack_compose_cza.pdf)
 
